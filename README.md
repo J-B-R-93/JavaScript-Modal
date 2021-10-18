@@ -18,7 +18,7 @@ The window is hidden again when clicking on the background, the x button or just
 
 - **Solution URL:** https://github.com/J-B-R-93/JavaScript-Modal.git
 
-- **Live Site URL:**
+- **Live Site URL:** https://j-b-r-93.github.io/JavaScript-Modal/
 
 ## Screenshot
 
